@@ -19,7 +19,7 @@ chmod +x user_management.sh
 
 ## Usage
 Run the script with commands:
-Add a user: `sudo ./user_management.sh add`
-Delete a user: `sudo ./user_management.sh delete Jannik`
-Backup: `sudo ./user_management.sh backup`
-Modify a User’s Shell: `sudo ./user_management.sh modify`
+- Add a user: `sudo ./user_management.sh add`
+- Delete a user: `sudo ./user_management.sh delete Jannik`
+- Backup: `sudo ./user_management.sh backup`
+- Modify a User’s Shell: `sudo ./user_management.sh modify`
